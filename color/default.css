@@ -1,38 +1,38 @@
 /*
-#1 color = #0099ff;
+#1 color = #4ACCD1;
 #2 color = #3fbbc0;
 */
 
 a:hover,
 a:focus {
-    color: #0099ff;
+    color: #4ACCD1;
 }
 
 .circled {
-	background: #0099ff;
+	background: #4ACCD1;
 }
 
 .con1 > div, .con2 > div, .con3 > div { 
-	background-color: #0099ff;
+	background-color: #4ACCD1;
 }
 
 .scrollup:hover {
-	background: #0099ff;
+	background: #4ACCD1;
 }
 
 
 /* service */
 
 .service-icon span {
-	color: #0099ff;
+	color: #4ACCD1;
 }
 
 
 
 /* button */
 .btn-skin {
-  background-color: #0099ff;
-  border-color: #0099ff;
+  background-color: #4ACCD1;
+  border-color: #4ACCD1;
 }
 
 
@@ -55,19 +55,19 @@ a:focus {
 
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-    background-color: #0099ff;
+    background-color: #4ACCD1;
 }
 
 
 .bg-skin {
-	background: #0099ff;
+	background: #4ACCD1;
 }
 
 .highlight-color {
-	background-color: #0099ff;
+	background-color: #4ACCD1;
 }
 .color {
-	color: #0099ff;
+	color: #4ACCD1;
 }
 
 /* pricing box  */
@@ -75,7 +75,7 @@ a:focus {
 	background-color:#3fbbc0;
 }
 .pricing-content.featured h3 {
-	background:#0099ff;
+	background:#4ACCD1;
 }
 
 
@@ -86,27 +86,27 @@ a:focus {
 }
 
 .cbp-l-filters-button .cbp-filter-counter {
-	background-color: #0099ff;
+	background-color: #4ACCD1;
 }
 
 .cbp-l-filters-alignLeft .cbp-filter-item-active {
     /* @editable properties */
-    background-color: #0099ff;
-    border:1px solid #0099ff;
+    background-color: #4ACCD1;
+    border:1px solid #4ACCD1;
 }
 
 .cbp-l-filters-dropdownWrap {
-    background: #0099ff;
+    background: #4ACCD1;
 }
 .cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
     /* @editable properties */
-    background-color: #0099ff;
-    border-color: #0099ff;
+    background-color: #4ACCD1;
+    border-color: #4ACCD1;
 }
 .cbp-l-caption-buttonLeft,
 .cbp-l-caption-buttonRight {
     /* @editable properties */
-    background-color: #0099ff;
+    background-color: #4ACCD1;
 }
 
 .cbp-l-caption-buttonLeft:hover,
