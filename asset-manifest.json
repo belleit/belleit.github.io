@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.20d51e13.css",
-    "main.js": "/static/js/main.439b4221.js",
+    "main.js": "/static/js/main.153e3b54.js",
+    "static/media/BelleIT_Prod2.jpg": "/static/media/BelleIT_Prod2.bbd75fb7e62221e0d3da.jpg",
+    "static/media/BelleIT_Prod1.jpg": "/static/media/BelleIT_Prod1.36aaf08b6ca9ffef1d24.jpg",
     "static/media/todd-diemer-zglUlG8k47I-unsplash.jpg": "/static/media/todd-diemer-zglUlG8k47I-unsplash.81937bffe2ddf47887f5.jpg",
     "static/media/MainLandingPageHero.png": "/static/media/MainLandingPageHero.30b380787ef7adb09eb6.png",
     "static/media/AgencyLandingPage.jpeg": "/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
@@ -33,7 +35,10 @@
     "static/media/prototype-illustration.svg": "/static/media/prototype-illustration.21bc4b3f612a2f257c3d361067582485.svg",
     "static/media/undraw_vibe-coding_mjme.svg": "/static/media/undraw_vibe-coding_mjme.f482197c6188fba449116951dbec67f0.svg",
     "static/media/LJ.jpg": "/static/media/LJ.674e62a5520e2ec155fa.jpg",
+    "static/media/LB.jpg": "/static/media/LB.c74e38f68ff5d9cb05fe.jpg",
     "static/media/WJ.jpg": "/static/media/WJ.d35889eb730464c41c6e.jpg",
+    "static/media/SW.jpg": "/static/media/SW.36a29b5d2c8316f37f07.jpg",
+    "static/media/MB.jpg": "/static/media/MB.7f5bf2c6356df4a982fb.jpg",
     "static/media/team-illustration-2.svg": "/static/media/team-illustration-2.76aa0427e037826d4453f8791ee544e3.svg",
     "static/media/undraw_tutorial-video_zg9w.svg": "/static/media/undraw_tutorial-video_zg9w.b7d223d42e51e490c30644286beec286.svg",
     "static/media/dot-pattern.svg": "/static/media/dot-pattern.ee6f4f0e6654d6e38850896165f9dc36.svg",
@@ -104,6 +109,6 @@
   },
   "entrypoints": [
     "static/css/main.20d51e13.css",
-    "static/js/main.439b4221.js"
+    "static/js/main.153e3b54.js"
   ]
 }
