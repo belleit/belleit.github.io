@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.20d51e13.css",
-    "main.js": "/static/js/main.153e3b54.js",
-    "static/media/BelleIT_Prod2.jpg": "/static/media/BelleIT_Prod2.bbd75fb7e62221e0d3da.jpg",
-    "static/media/BelleIT_Prod1.jpg": "/static/media/BelleIT_Prod1.36aaf08b6ca9ffef1d24.jpg",
+    "main.js": "/static/js/main.5f726a81.js",
     "static/media/todd-diemer-zglUlG8k47I-unsplash.jpg": "/static/media/todd-diemer-zglUlG8k47I-unsplash.81937bffe2ddf47887f5.jpg",
+    "static/media/BelleIT_Prod2.jpg": "/static/media/BelleIT_Prod2.c23d4164462c48b03faa.jpg",
+    "static/media/BelleIT_Prod1.jpg": "/static/media/BelleIT_Prod1.5c12f836649dd99d3823.jpg",
     "static/media/MainLandingPageHero.png": "/static/media/MainLandingPageHero.30b380787ef7adb09eb6.png",
     "static/media/AgencyLandingPage.jpeg": "/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
     "static/media/HotelTravelLandingPage.jpeg": "/static/media/HotelTravelLandingPage.7cba2215c02e6e82fc39.jpeg",
@@ -109,6 +109,6 @@
   },
   "entrypoints": [
     "static/css/main.20d51e13.css",
-    "static/js/main.153e3b54.js"
+    "static/js/main.5f726a81.js"
   ]
 }
