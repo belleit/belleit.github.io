@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c7c3723.css",
-    "main.js": "/static/js/main.c04acb48.js",
-    "static/media/demox.gif": "/static/media/demox.390fe6babb6bb127b297.gif",
+    "main.css": "/static/css/main.31b865f8.css",
+    "main.js": "/static/js/main.b5f45754.js",
     "static/media/todd-diemer-zglUlG8k47I-unsplash.jpg": "/static/media/todd-diemer-zglUlG8k47I-unsplash.81937bffe2ddf47887f5.jpg",
     "static/media/BelleIT_Prod2.jpg": "/static/media/BelleIT_Prod2.c23d4164462c48b03faa.jpg",
     "static/media/BelleIT_Prod1.jpg": "/static/media/BelleIT_Prod1.5c12f836649dd99d3823.jpg",
@@ -106,10 +105,12 @@
     "static/media/facebook-icon.svg": "/static/media/facebook-icon.8f6512c4ee4f21763666f0f3b69d970d.svg",
     "static/media/arrow-left-3-icon.svg": "/static/media/arrow-left-3-icon.d48c6bae447f4492e1860f8a253007c8.svg",
     "static/media/arrow-right-3-icon.svg": "/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
-    "static/media/handle-icon.svg": "/static/media/handle-icon.75eb6395a03cd55833f64fd24df39ff5.svg"
+    "static/media/handle-icon.svg": "/static/media/handle-icon.75eb6395a03cd55833f64fd24df39ff5.svg",
+    "main.31b865f8.css.map": "/static/css/main.31b865f8.css.map",
+    "main.b5f45754.js.map": "/static/js/main.b5f45754.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c7c3723.css",
-    "static/js/main.c04acb48.js"
+    "static/css/main.31b865f8.css",
+    "static/js/main.b5f45754.js"
   ]
 }
